@@ -2,6 +2,7 @@
 
 # Build and IDE outputs
 out/
+bin/
 target/
 build/
 
